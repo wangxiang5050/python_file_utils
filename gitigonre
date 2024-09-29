@@ -1,0 +1,22 @@
+# Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Python-specific test files
+.pytest_cache/
+test*.py
+
+# Caching and build artifacts
+.cache/
+build/
+dist/
+*.egg
+*.egg-info
+*.egg-info/
+docs/_build/
+
+# IDE/editor specific files
+.vscode/
+.idea/
+.DS_Store
